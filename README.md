@@ -1,4 +1,4 @@
-# 1.0 ASSESMENT OF RISKS ASSOCIATED WITH VENTURING INTO AVIATION MARKET FOR COMPANY'S DECISION MAKING.
+# 1.0 ASSESMENT OF RISKS ASSOCIATED WITH VENTURING INTO AVIATION MARKET.
 ## 1.1 OVERVIEW
 The company is in the process of entering into the aviation industry and requires a detailed analysis of the various risk associated with this industry, historical data for previous years with different categories of aircraft and different level of risks has been shared for analysis of trends. This will in the end guide the management in decision making on whether to venture or not.
 This project therefore aims to evaluate the viability of entering the aviation industry and provide strategic recommendations to management based on comprehensive research and analysis.
