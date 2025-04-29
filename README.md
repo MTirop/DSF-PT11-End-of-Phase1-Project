@@ -33,6 +33,7 @@ For the data selected for trend and descriptive analysis, various graphs were pl
 * Lowest fatalities were registered with Mooney make.
 * Despite Good weather conditions , Highest fatalities was registered.
 * The number of fatalities decreased over time for periods between 2012 and 2022.
+
 In conclusion venturing into aviation business has more associated risks and can be a costly business, however there are makes that have registered minimal fatalities and it it recommended for the company to invest in this make: The Mooney.
 
 
