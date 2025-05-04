@@ -25,10 +25,13 @@ The data from the above source had the relevant fields and information required 
 ## 1.2.2 Data Visualization
 For the data selected for trend and descriptive analysis, various graphs were plotted (Two bar charts and one line graph)
 ### 1.2.2.0 Total Fatal Injuries against the make.
+(https://github.com/user-attachments/assets/acdb93ae-1af4-4a60-a532-91924545b60b)
 ### 1.2.2.1 Total fatalities against Weather condition.
+(https://github.com/user-attachments/assets/b23a5ac5-3882-4e0f-b2b2-ea4842ffcadf)
 ### 1.2.2.2 Total Fatalities against Event Date
-
-
+(https://github.com/user-attachments/assets/d931d2cf-6ec1-47ce-bc0f-bd6d6b76a1fe)
+### 1.2.2.3 Dashboard
+(https://github.com/user-attachments/assets/3b259e06-1d39-4acc-9722-24f471356896)
 # 1.3 CONCLUSION
 * Lowest fatalities were registered with Mooney make.
 * Despite Good weather conditions , Highest fatalities was registered.
@@ -39,5 +42,5 @@ In conclusion venturing into aviation business has more associated risks and can
 
 
 
->>>>>>> c6852b8975a2748cdd7c209408a48d46852ee08e
+
 
